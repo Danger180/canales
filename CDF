@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 ,CANAL PRUEBA
+https://livestream.com/accounts/5943231/events/9609951.m3u8
