@@ -13,5 +13,5 @@ http://api.new.livestream.com/accounts/14870495/events/9611404/broadcasts/219688
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" , CANAL LUIS
 http://api.new.livestream.com/accounts/8069167/events/9613315/broadcasts/219673547.m3u8
 
-#EXTINF:-1 tvg-chno="200" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" , CLAUDIA CACHONDA
-http://api.new.livestream.com/accounts/1003574/events/5341110/videos/122233088.m3u8
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" , CANAL 134
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1617927443/ei/s0hvYLuOCYaF1sQPrNg3/ip/190.160.254.44/id/f2t3330_mBk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgGBLboKQBOXc0cltxLik-NtbaVJnDPEK7yd3i9Nrq5HwCIQD2mEkOk5CUtZuHNiCqQKZWQ5EEfRk3DnYfl56tcVvUVQ%3D%3D/file/index.m3u8
