@@ -12,3 +12,6 @@ http://api.new.livestream.com/accounts/14870495/events/9611404/broadcasts/219688
 
 #EXTINF:-1 tvg-chno="200" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" , CANAL LUIS
 http://api.new.livestream.com/accounts/8069167/events/9613315/broadcasts/219673547.m3u8
+
+#EXTINF:-1 tvg-chno="200" tvg-logo="https://i.ibb.co/NZ66vJS/AXNHD.jpg" , CANAL SONIA
+http://api.new.livestream.com/accounts/11707815/events/4299357/videos/179533305.m3u8
